@@ -462,6 +462,8 @@ var Config = {
 	},
 	IPHunter: {
 		IPList: [],
+		StartProfiles: [],
+		TeamHunters: [],
 		GameLength: 3
 	},
 	Follower: {
